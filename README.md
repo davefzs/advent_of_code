@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @davefzs
-- 👀 I’m interested in automation and development
+- 👀 I’m interested in RPA automation and Python development
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: davidchafer@gmail.com
 
