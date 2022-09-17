@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @davefzs
-- 👀 I’m interested in RPA automation and Python development
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in RPA automation, Python development and Fullstack web.
+- 🌱 I’m currently learning Python, Java, Javascript, HTML, CSS, and related to RPA I'm in UiPath and Microsoft's PowerPlatform.
 - 📫 How to reach me: davidchafer@gmail.com
 
 <!---
